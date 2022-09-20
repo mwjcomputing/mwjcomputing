@@ -1,4 +1,4 @@
-# MWJComputing 👋
+# MWJComputing
 
 - 💬 Ask me about PowerShell, Application Security
 - 🌱 I’m currently learning SQL Injection (SQLi)
